@@ -13,7 +13,7 @@ public class StaticVariableInit {
         System.out.println(strInBlock);
     }
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
         print();
     }
 }
